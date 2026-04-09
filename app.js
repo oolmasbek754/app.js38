@@ -1,3 +1,4 @@
+
 function points(games) {
   let a = 0
   for(key of games) {
